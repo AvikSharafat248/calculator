@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(27, 27, 61);
+}
+
+
+.tanim{
+    padding: 20px 40px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid white;
+}
+
+.tanim:hover{
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}

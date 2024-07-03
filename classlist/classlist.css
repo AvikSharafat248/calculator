@@ -1,0 +1,25 @@
+#btn{
+    font-size: 4rem;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
+
+.enabled{
+    background-color: skyblue;
+}
+
+.hover{
+    box-shadow: 0 0 10px black;
+    font-weight: bold;
+}
+
+.disabled{
+    background-color: gray;
+    color: white;
+}
+#hello{
+    font-size: 5rem;
+}
+
